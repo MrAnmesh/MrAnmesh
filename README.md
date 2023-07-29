@@ -1,5 +1,7 @@
-# 💫 About Me:
-                                         A Full-Stack Developer<br><br>Greetings, I am Anmesh Mishra, a passionate Full stack developer and freelance software engineer from India.<br>I aspire to bring innovative ideas to life with elegant projects that enhance user experience and optimize<br> performance.<br>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Anmesh</h1>
+<h3 align="center">A Full-Stack Developer</h3
+
+<p>Greetings, I am Anmesh Mishra, a passionate full stack developer and freelance software engineer from India. I aspire to bring innovative ideas to life with elegant projects that enhance user experience and optimize performance. 
 
 
 ## 🌐 Socials:
